@@ -7,4 +7,20 @@
         <th width="20%">001 </th>
         <th>가운데 글자 가져오기</th>
     </tr>
+    <tr>
+        <th width="20%">002 </th>
+        <th>같은 숫자는 싫어</th>
+    </tr>
+    <tr>
+        <th width="20%">003 </th>
+        <th>두 정수 사이의 합</th>
+    </tr>
+    <tr>
+        <th width="20%">004 </th>
+        <th>서울에서 김서방찾기</th>
+    </tr>
+    <tr>
+        <th width="20%">005 </th>
+        <th>K번째수</th>
+    </tr>
 </table>

@@ -23,4 +23,23 @@
         <th width="20%">005 </th>
         <th>K번째수</th>
     </tr>
+    <tr>
+        <th width="20%">006 </th>
+        <th>두 정수 사이의 합</th>
+    </tr>
+    <tr>
+        <th width="20%">007 </th>
+        <th>문자열 내 마음대로 정렬하기</th>
+    </tr>
 </table>
+
+
+
+### Level 2 🌟
+<table>
+    <tr>
+        <th width="20%">001 </th>
+        <th>다리를 지나는 트럭</th>
+    </tr>
+</table>
+

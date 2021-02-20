@@ -32,6 +32,14 @@
         <th width="20%">007 </th>
         <th>문자열 내 마음대로 정렬하기</th>
     </tr>
+    <tr>
+        <th width="20%">008 </th>
+        <th>완주하지 못한 선수</th>
+    </tr>
+    <tr>
+        <th width="20%">009 </th>
+        <th>두 개 뽑아서 더하기</th>
+    </tr>
 </table>
 
 

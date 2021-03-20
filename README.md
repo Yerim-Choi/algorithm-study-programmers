@@ -139,8 +139,16 @@
         <th>올바른 괄호</th>
     </tr>
     <tr>
-        <th>001 </th>
-        <th>다리를 지나는 트럭</th>
+        <th>009 </th>
+        <th>영어 끝말잇기</th>
+    </tr>
+    <tr>
+        <th>010 </th>
+        <th>문자열압축/th>
+    </tr>
+    <tr>
+        <th>011 </th>
+        <th>H-index</th>
     </tr>
 </table>
 

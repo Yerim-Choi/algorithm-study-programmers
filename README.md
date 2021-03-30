@@ -108,6 +108,14 @@
         <th>026 </th>
         <th>2016년</th>
     </tr>
+    <tr>
+        <th>027 </th>
+        <th>시저암호</th>
+    </tr>
+    <tr>
+        <th>028 </th>
+        <th>이상한 문자 만들기</th>
+    </tr>
 </table>
 
 
@@ -157,6 +165,10 @@
     <tr>
         <th>011 </th>
         <th>H-index</th>
+    </tr>
+    <tr>
+        <th>012 </th>
+        <th>행렬의 곱셈</th>
     </tr>
 </table>
 

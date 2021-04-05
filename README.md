@@ -118,7 +118,7 @@
     </tr>    
     <tr>
         <th>029 </th>
-        <th>예산/th>
+        <th>예산</th>
     </tr>
 </table>
 

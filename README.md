@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <th>030 </th>
-        <th>예산</th>
+        <th>네적</th>
     </tr>
 </table>
 

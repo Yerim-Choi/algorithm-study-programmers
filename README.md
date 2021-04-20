@@ -122,7 +122,11 @@
     </tr>
     <tr>
         <th>030 </th>
-        <th>네적</th>
+        <th>내적</th>
+    </tr>
+    <tr>
+        <th>031 </th>
+        <th>x만큼 간격이 있는 n개의 숫자</th>
     </tr>
 </table>
 

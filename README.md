@@ -195,3 +195,12 @@
         <th>짝지어 제거하기</th>
     </tr>
 </table>
+
+### SQL 🌟
+<table>
+    <tr>
+        <th>001 </th>
+        <th>모든 레코드 조회하기.sql</th>
+    </tr>
+</table>
+
